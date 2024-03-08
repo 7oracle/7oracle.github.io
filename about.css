@@ -1,0 +1,160 @@
+body {
+  background-image: url("images/cloudsinvert.png");
+  background-repeat: repeat;
+  margin: 0;
+  font-family: sans-serif;
+  margin-top: 42px;
+}
+
+@font-face {
+    font-family: 'EditorialToday';
+    src: url("fonts/EditorialToday-Regular.ttf") format('truetype'),
+}
+
+@font-face {
+    font-family: 'FranklinGothic';
+    src: url("fonts/Franklin Gothic Medium Regular.ttf") format('truetype');
+}
+
+#container-header {
+    background-image: url("images/cloudslapse.gif");
+    border: 5px solid white;
+    width: 1200px;
+    height: 140px;
+    margin: 0 auto;
+    text-align: center;    
+}
+
+#navbar {
+    background-image: url("images/surfaceinvert.png");
+    border: 5px double white;
+    width: 1200px;
+    height: 25px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#navbar button {
+    margin: 0 10px;
+    height: 20px;
+    font-size: 16px;
+    background-color: white;
+    border: 1px solid lightgray;
+    cursor: pointer;
+    font-family: EditorialToday;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: #18001a;
+}
+
+#navbar button:hover {
+    background-color: azure;
+}
+
+#scrolling-text {
+    background-image: url("images/abstraction.gif");
+    border: 5px double white;
+    width: 1200px;
+    height: 20px;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: center; 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#scrolling-text p {
+    white-space: nowrap;
+    animation: marquee 30s linear infinite;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(90%);
+    }
+    100% {
+        transform: translateX(-90%);
+    }
+}
+
+#divider {
+    background-image: url("images/clouds.png");
+    border: 5px double white;
+    width: 1200px;
+    height: 926px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#oracle {
+    font-family: EditorialToday;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+    letter-spacing: 14px;
+    color: black;
+    text-align: center;
+    margin: 32px 0 6px 0;
+    text-shadow: -1px -1px 0 azure, 1px -1px 0 azure, -1px 1px 0 azure, 1px 1px 0 azure,
+    -5px 5px 10px rgba(0, 0, 0, 0.6);
+}
+
+#subtext {
+    font-family: EditorialToday;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+    letter-spacing: 9px;
+    color: black;
+    text-align: center;
+    margin: 6px 0;
+    text-shadow: -1px -1px 0 azure, 1px -1px 0 azure, -1px 1px 0 azure, 1px 1px 0 azure,
+    -5px 5px 10px rgba(0, 0, 0, 0.6);
+}
+
+.divider {
+    border-top: 1px solid black;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+#abouttext {
+    color: black;
+    padding: 20px;
+    font-family: FranklinGothic;
+    font-size: 18px;
+    max-width: 900px;
+    margin: 75px 0 6px 0;
+    margin-bottom: 75px;
+    text-align: center;
+    text-shadow: -2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+#footer {
+    background-image: url("images/eternalflames.gif");
+    border: 5px solid white;
+    width: 1200px;
+    height: 25px;
+    margin: 0 auto;
+    text-align: center; 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-size: 11px;
+    color: yellow;
+}
+
+#footer-text {
+    display: inline;
+    background-color: black;
+}
