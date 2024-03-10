@@ -2651,7 +2651,7 @@ drewest
 dried
 drill
 drink
-drink n.
+drink
 drinketh
 drinking
 drive
@@ -2989,7 +2989,7 @@ epicurus
 episcopal
 episode
 epistles
-Epstein
+epstein
 equably
 equal
 equalled
@@ -3254,7 +3254,7 @@ faithfulness
 fake
 fake_news
 fall
-fall 
+fall
 fallacies
 fallen
 falling
@@ -4332,7 +4332,7 @@ hotly
 hour
 hours
 house
-house 
+house
 household
 houseless
 houses
@@ -5463,7 +5463,6 @@ map
 March
 mariners
 mark
-mark v.
 marked
 market
 marketing
@@ -6580,7 +6579,7 @@ pointed
 points
 poise
 poison
-poison n.
+poison
 poisonous
 pole
 police
@@ -6598,7 +6597,7 @@ polytheism
 pontitianus
 pool
 poor
-pop n.
+pop
 pop_culture
 Pope
 popular
@@ -6624,7 +6623,7 @@ possibility
 possible
 possibly
 post
-post n.
+post
 posted
 poster
 pot
@@ -9989,8 +9988,8 @@ zeal
 zealous
 zealously
 zero
-Zion
-Zionist
+zion
+zionist
 zip
 ZOG
 zone
