@@ -6565,7 +6565,7 @@ plunged
 plunging
 plural
 plus
-pmb
+PMB
 png
 pocket
 poem
@@ -6954,7 +6954,7 @@ putrefied
 putting
 pwned
 pylades
-qed
+QED
 qualification
 qualified
 qualify
@@ -8790,7 +8790,7 @@ the
 the_eating_of_unclean_food
 the_enquirer
 the_fool
-The_good_stuff
+the_good_stuff
 the_hanged_man
 the_hermit
 the_love_of_idols
@@ -8853,8 +8853,8 @@ thirteen
 thirtieth
 thirty
 this
-This_cant_be_william_wallace
-This_is_confusing
+this_cant_be_william_wallace
+this_is_confusing
 this_might_end_badly
 thither
 thorns
