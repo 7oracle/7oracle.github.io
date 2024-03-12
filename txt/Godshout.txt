@@ -312,7 +312,7 @@ ambrosian
 amen
 amend
 amendment
-American
+american
 amiable
 amid
 amidst
@@ -323,7 +323,7 @@ amount
 amphitheatre
 ample
 an
-an_Irishman_is_forced_to_talk_to_God
+an_irishman_is_forced_to_talk_to_God
 analyse
 analysis
 analyzed
@@ -9960,7 +9960,7 @@ yoke
 you
 you_are_my_sunshine
 you_better_not
-You_can_count_on_that
+you_can_count_on_that
 you_couldnt_navigate_yer_way_circleK
 you_da_man
 you_do_it
