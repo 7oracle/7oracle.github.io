@@ -433,7 +433,7 @@ approved
 approveth
 approving
 approximately
-April
+april
 apt
 aptly
 aquarius
@@ -604,7 +604,7 @@ auditors
 aught
 augmented
 augmenting
-August
+august
 augustine
 aunt
 author
@@ -3338,7 +3338,7 @@ fears
 feast
 feather
 feature
-February
+february
 fed
 fee
 feed
@@ -4910,7 +4910,7 @@ ivy_league
 jacket
 jacob
 jam
-January
+january
 Japan
 jarring
 jazz
@@ -4972,7 +4972,7 @@ judgment
 judgments
 juice
 julian
-July
+july
 jump
 juncture
 june
@@ -5472,7 +5472,7 @@ manufactures
 manufacturing
 many
 map
-March
+march
 mariners
 mark
 marked
@@ -5993,7 +5993,7 @@ nourishment
 nourishments
 novel
 novelty
-November
+november
 novice
 now
 now_that_I_think_about_it
@@ -6063,7 +6063,7 @@ occurred
 occurs
 ocean
 o'clock
-October
+october
 odd
 odour
 odours
@@ -7793,7 +7793,7 @@ separate
 separated
 separateth
 separating
-September
+september
 sequence
 seraphim
 serene
