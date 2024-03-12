@@ -1,15 +1,17 @@
 11:11
-9:11
 111
 222
 333
+3D
 444
+4D
 555
+5D
+5g
 777
 888
+9:11
 999
-1776
-5g
 a
 a_conscienceless_soul
 a_flag_on_that_play
@@ -434,7 +436,7 @@ approximately
 April
 apt
 aptly
-Aquarius
+aquarius
 aquatic
 Archangel
 archetype
@@ -455,7 +457,7 @@ argue
 argument
 arguments
 arians
-Aries
+aries
 aright
 arise
 arisen
@@ -491,7 +493,7 @@ artificial
 artist
 artistic
 arts
-Aryan
+aryan
 as
 as_a_matter_of_fact
 ascend
@@ -630,6 +632,7 @@ avoiding
 awaited
 awaiting
 awake
+awakening
 awakest
 award
 aware
@@ -939,6 +942,7 @@ blottedst
 blow
 blowing
 blue
+blueprint
 blunt
 blunted
 blush
@@ -966,7 +970,7 @@ bondage
 bonds
 bone
 bones
-Boo
+boo
 book
 books
 boomer
@@ -1144,7 +1148,7 @@ calculated
 calculation
 calculations
 calf
-California
+california
 call
 called
 calledst
@@ -1166,7 +1170,7 @@ campus
 can
 can_you_hear_me_now
 cancel
-Cancer
+cancer
 candid
 candidate
 candle
@@ -1182,7 +1186,7 @@ capacity
 capital
 capitalism
 capitilist
-Capricorn
+capricorn
 captain
 captious
 captive
@@ -1372,9 +1376,11 @@ choosing
 chord
 chose
 chosen
+Chrism
 christ
 christian
 christians
+Christos
 chump_change
 church
 churches
@@ -1865,7 +1871,7 @@ corruption
 corruptions
 corruptly
 cosmetics
-Cosmos
+cosmos
 cost
 costs
 costume
@@ -1873,7 +1879,7 @@ cottage
 cotton
 couch
 could
-could_it_be___Satan
+could_it_be_satan
 couldest
 couldn't_be_better
 couldnt_possibly
@@ -2387,6 +2393,7 @@ discern
 discerned
 discerneth
 discerning
+discernment
 discharge
 disciple
 disciples
@@ -2731,7 +2738,7 @@ easier
 easily
 east
 eastern
-Eastern_Europe
+eastern_europe
 easy
 eat
 eaten
@@ -2777,6 +2784,7 @@ efficient
 effort
 efforts
 egg
+ego
 egypt
 egyptian
 eh
@@ -2796,6 +2804,7 @@ election
 electric
 electrical
 electricity
+electromagnetic
 electronic
 electronically
 element
@@ -2836,6 +2845,7 @@ emo
 emotion
 emotional
 emotions
+empathy
 emperor
 emphasis
 emphasize
@@ -3259,6 +3269,7 @@ fallacies
 fallen
 falling
 falls
+false
 falsehood
 falsehoods
 falsely
@@ -3665,7 +3676,7 @@ frequently
 fresh
 freshness
 fretted
-Friday
+friday
 fridge
 friend
 friendly
@@ -3771,7 +3782,7 @@ gaze
 gazers
 gazing
 geek
-Gemini
+gemini
 gen-alpha
 general
 generally
@@ -3781,6 +3792,7 @@ generations
 generosity
 generous
 genesis
+genetic
 genius
 genre
 gentiles
@@ -3842,6 +3854,7 @@ glided
 gliding
 glittering
 global
+globalist
 gloried
 glories
 glorieth
@@ -3960,7 +3973,7 @@ greedily
 greediness
 greedy
 greek
-Greek_to_me
+greek_to_me
 greeks
 green
 greet
@@ -4286,7 +4299,7 @@ holocaust
 holodomor
 holy
 holy_grail
-Holy_Mysteries
+holy_mysteries
 HolySpirit
 home
 homeless
@@ -4359,6 +4372,7 @@ hugging
 huh
 human
 humane
+humanist
 humanity
 humans
 humble
@@ -4457,8 +4471,6 @@ ignorance_of_beauty
 ignorance_of_God
 ignorant
 ignore
-ii
-iii
 ill
 I'll_ask_nicely
 I'll_be_back
@@ -4889,7 +4901,7 @@ items
 its
 it's_hopeless
 it's_my_world
-It's_nice_being_God
+it's_nice_being_God
 its_not_okay
 its_okay
 its_trivial_obviously
@@ -5161,7 +5173,7 @@ lends
 length
 lengthened
 lentiles
-Leo
+leo
 less
 lessen
 lesser
@@ -5185,7 +5197,7 @@ libanus
 liberal
 liberality
 liberty
-Libra
+libra
 library
 licence
 license
@@ -5502,6 +5514,7 @@ mathematicians
 mathematics
 maths
 matricide
+matrix
 matrons
 matter
 matters
@@ -5600,7 +5613,7 @@ michael
 mid
 middle
 middle_class
-Middle_East
+middle_east
 midnight
 might
 mightest
@@ -5712,7 +5725,7 @@ monad
 monarchy
 monasteries
 monastery
-Monday
+monday
 money
 monitor
 monk
@@ -5739,7 +5752,7 @@ mortality
 mortals
 mortified
 moses
-Mossad
+mossad
 most
 mostly
 MOTB
@@ -6078,11 +6091,11 @@ ofthe
 ofttimes
 oh
 oh_come_on
-Oh_Hell_No
+oh_Hell_No
 oh_my
 oh_no
 oh_oh
-Oh_really
+oh_really
 ohh_thank_you
 oil
 ointments
@@ -6243,6 +6256,7 @@ page
 pages
 paid
 pain
+pain_body
 painful
 pains
 paint
@@ -6494,7 +6508,7 @@ pink
 pious
 piously
 pipe
-Pisces
+pisces
 pit
 pitch
 pitiable
@@ -6599,7 +6613,7 @@ pool
 poor
 pop
 pop_culture
-Pope
+pope
 popular
 popularity
 populate
@@ -6912,7 +6926,7 @@ publicly
 publish
 puffed
 pull
-Pullin_the_dragons_tail
+pullin_the_dragons_tail
 pulse
 punctuation
 punish
@@ -6999,6 +7013,7 @@ racing
 racism
 racked
 racks
+radiation
 radio
 rage
 raged
@@ -7557,7 +7572,7 @@ sadness
 safe
 safer
 safety
-Sagittarius
+sagittarius
 said
 saidst
 sail
@@ -7600,7 +7615,7 @@ satisfactorily
 satisfied
 satisfy
 satisfying
-Saturday
+saturday
 saturn
 sauce
 saul
@@ -7653,7 +7668,7 @@ scorned
 scornful
 scornfully
 scorning
-Scorpio
+scorpio
 scourge
 scourged
 scourgedst
@@ -8246,6 +8261,7 @@ spirit
 spirits
 spiritual
 spiritual_paralysis
+spiritual_warfare
 spiritually
 split
 spoil
@@ -8535,7 +8551,7 @@ summing
 summit
 sumptuously
 sun
-Sunday
+sunday
 sunder
 sung
 sunk
@@ -8677,7 +8693,7 @@ taught
 taughtest
 taunt
 taunted
-Taurus
+taurus
 tax
 taxes
 taxi
@@ -8894,7 +8910,7 @@ thundered
 thunderer
 thunderest
 thundering
-Thursday
+thursday
 thus
 thwart
 thy
@@ -9015,6 +9031,7 @@ transgressing
 transgression
 transgressions
 transgressors
+transhumanism
 transition
 transitory
 translate
@@ -9079,6 +9096,7 @@ troublesome
 trousers
 troy
 truck
+true
 truer
 truly
 Trump
@@ -9092,7 +9110,7 @@ try_again
 trying
 T-shirt
 tube
-Tuesday
+tuesday
 tully
 tumbling
 tumult
@@ -9235,7 +9253,7 @@ union
 unique
 unit
 united
-United_States
+united_states
 unity
 universal
 universally
@@ -9479,7 +9497,7 @@ virgil
 virgin
 virginity
 virgins
-Virgo
+virgo
 virtual
 virtue
 virtuous
@@ -9582,7 +9600,7 @@ wasting
 wastoid
 watch
 watch_it_buddy
-Watch_this
+watch_this
 watched
 watchfully
 watchings
@@ -9632,7 +9650,7 @@ web
 website
 wedding
 wedlock
-Wednesday
+wednesday
 week
 weekend
 weep
@@ -9996,5 +10014,3 @@ zone
 zoomer
 zoot
 Zzzzzzzz
-false
-true
