@@ -9539,7 +9539,7 @@ vows
 voyage
 vril
 vulgar
-Waco
+waco
 waft
 wage
 waged
