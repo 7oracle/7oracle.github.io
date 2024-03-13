@@ -1362,7 +1362,7 @@ children
 chill
 chill_out
 chilled
-China
+china
 chip
 chocolate
 choice
@@ -4053,7 +4053,7 @@ hallow
 hallowed
 hallowing
 halved
-Han_shot_first
+han_shot_first
 hand
 handkerchief
 handle
