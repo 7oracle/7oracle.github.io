@@ -2690,7 +2690,7 @@ duck
 duck_the_shoe
 dude_such_a_scoffer
 dudley
-Dudly_Doright
+dudly_doright
 due
 duel
 dug
@@ -7553,8 +7553,7 @@ runs
 rural
 rush
 rushing
-Russia
-s
+russia
 sabbath
 saber_rattling
 sacrament
