@@ -2024,7 +2024,7 @@ cutting
 cyber
 cycle
 cyprian
-Dad
+dad
 daemon
 daemons
 daily
@@ -3308,7 +3308,7 @@ fastidiousness
 fasting
 fastings
 fat
-father
+Father
 fatherless
 fatherly
 fathers
@@ -4431,7 +4431,7 @@ I_hear_you
 I_just_might
 I_love_this
 I_love_you
-I_m_prettier_than_this_man
+I'm_prettier_than_this_man
 I_made_it_that_way
 I_pity_the_fool
 I_planned_that
@@ -5022,7 +5022,7 @@ kindness
 kindred
 kinds
 king
-King_Midas
+king_midas
 king_nun
 king_of_mars
 kingdom
@@ -5716,7 +5716,7 @@ moist
 molecule
 molest
 molten
-Mom
+mom
 moment
 momentary
 momentous
@@ -6091,7 +6091,7 @@ ofthe
 ofttimes
 oh
 oh_come_on
-oh_Hell_No
+oh_hell_no
 oh_my
 oh_no
 oh_oh
@@ -9147,7 +9147,7 @@ typically
 tyre
 ugly
 uh_huh
-Ukraine
+ukraine
 ulcerous
 ultimately
 uman
