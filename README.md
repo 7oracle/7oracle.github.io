@@ -1,4 +1,4 @@
-# ORACLE - 7oracle.github.io
+# the ORACLE - 7oracle.github.io
 
 The ORACLE is a JavaScript random word/verse generator that uses true random number generation to select words from an array.
 
